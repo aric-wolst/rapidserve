@@ -7,7 +7,7 @@
 <h4 align="center">Main repository for the rapidserve application</h4>
 
 ### Useful Links
-* [Demo Video] (https://bit.ly/radpidserve)
+* [Demo Video](https://bit.ly/radpidserve)
 * [Github](https://github.com/rossmojgani/rapidserve)
 * [DevPost](https://devpost.com/software/rapidserve-g1skzh)
 
